@@ -5,4 +5,4 @@ Kelompok :
 - Valentino Rocky Atmojo (221116996)
 - Yoanes Leonardi (221116999)
 
-ISTTS semester 2 S1-Informatika Tugas Proyek PBO
+ISTTS S1-Informatika semester 2 Tugas Proyek PBO
